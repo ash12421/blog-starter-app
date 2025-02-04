@@ -12,8 +12,8 @@ import { UserContextProvider } from "./user-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Blog.`,
-  description: `A simple blogpost for your needs`,
+  title: `Next.js Blog Example with ${CMS_NAME}`,
+  description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
@@ -71,8 +71,10 @@ export default function RootLayout({
         className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
       >
         <ThemeSwitcher />
-        <Footer />
-      </body>
+        {/* <UserContextProvider value={"hello"}> */}
+        <div className="min-h-screen">{children}</div>
+        {/* </UserContextProvider> */}
+              </body>
 
     </html>
   );
