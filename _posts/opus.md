@@ -1,5 +1,5 @@
 ---
-title: "A door not meant to be open"
+title: "A door not meant to be opened"
 excerpt: "Don't read this!"
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
