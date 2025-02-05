@@ -5,7 +5,7 @@ coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: Viktor
-  picture: ""
+  picture: null
 ogImage:
   url: "/assets/blog/preview/cover.jpg"
 priv: false

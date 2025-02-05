@@ -5,7 +5,7 @@ coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: Viktor
-  picture: ""
+  picture: null
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 priv: true
