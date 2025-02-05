@@ -14,7 +14,7 @@ I should have never set foot in that university. What I sought as knowledge beca
 
 They say universities are meant to shape you, but mine corrupted me. The deeper I went, the more I saw how fragile everything truly was. Systems built on decades of trust, vulnerable to a few lines of code. A misplaced query, an unchecked input—control was always an illusion.
 
-One night, I saw it. The flaw amidst the wisdom embodied in "Athena", the university's magnum opus . The gaping hole in their database, hiding in plain sight. A simple SQL injection, and the entire foundation of this institution could crumble. Student records, financial transactions, even faculty emails—everything was at my fingertips. I didn't even have to try.
+One night, I saw it. The flaw amidst the wisdom embodied in "Project Athena", the university's magnum opus . The gaping hole in their database, hiding in plain sight. A simple SQL injection, and the entire foundation of this institution could crumble. Student records, financial transactions, even faculty emails—everything was at my fingertips. I didn't even have to try.
 
 I thought about reporting it. About being the responsible one. But then I remembered the professors who looked down on me, the administration that turned a blind eye, the endless bureaucracy that mocked every struggling student. Why should I protect a system that never protected me?
 
